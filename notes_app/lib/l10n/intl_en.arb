@@ -1,0 +1,38 @@
+ {
+    "notes" : "notes",
+
+    "Addyournote": "Add your note",
+
+    "title" : "title" ,
+
+    "content" : "content",
+
+    "Addnote" : "Add note",
+
+    "noteapp" : "Note APP", 
+
+     "Setting" :"Setting",
+
+     "Love" : "Love" , 
+
+     "Language" :"Language", 
+      
+     "Theme" : "Theme",
+
+     "Arabic" : "Arabic",
+
+     "English" : "English", 
+
+     "Favsection" : "Favourite Section",
+
+     "Edityournote": "Edit your note",
+
+
+     "FillALLFields" :"Fill ALL Fields ",
+      
+     "Save" : "Save"
+
+
+
+
+}

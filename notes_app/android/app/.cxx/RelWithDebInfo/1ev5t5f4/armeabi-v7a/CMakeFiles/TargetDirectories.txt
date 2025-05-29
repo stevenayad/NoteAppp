@@ -1,0 +1,2 @@
+C:/Users/HP/OneDrive/Desktop/flutter/notes app/notes_add/android/app/.cxx/RelWithDebInfo/1ev5t5f4/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/HP/OneDrive/Desktop/flutter/notes app/notes_add/android/app/.cxx/RelWithDebInfo/1ev5t5f4/armeabi-v7a/CMakeFiles/rebuild_cache.dir

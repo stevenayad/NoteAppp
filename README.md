@@ -25,20 +25,29 @@ and uses local storage for a fast, reliable experience.
 
 🧰 Tech Stack
 Technology 	                        Description
+
 Flutter                             UI Framework
+
 Hive	                              Local NoSQL Database
+
 Shared Preferences                	Local key-value storage
+
 Cubit(Bloc)                         State management 
+
 Flutter Intl / Easy Localization	  Localization support
 
 🌍 Supported Languages
+
    🇺🇸 English
+   
    🇸🇦 Arabic
 
 Language is auto-detected or manually changeable in app settings.
 
 🎨 Theme Support
+
 🌞 Light Mode
+
 🌚 Dark Mode
 
 User’s theme preference is saved and restored across sessions using Shared Preferences.

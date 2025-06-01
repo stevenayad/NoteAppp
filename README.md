@@ -28,13 +28,13 @@ Technology	Description
 Flutter	UI Framework
 Hive	Local NoSQL Database
 Shared Preferences	Local key-value storage
-BLoC / Provider	(Optional) State management (if used)
+Cubit(Bloc) State management 
 Flutter Intl / Easy Localization	Localization support
 
 🌍 Supported Languages
-🇺🇸 English
+ 🇺🇸 English
 
-🇸🇦 Arabic
+ 🇸🇦 Arabic
 
 Language is auto-detected or manually changeable in app settings.
 
